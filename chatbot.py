@@ -7,8 +7,8 @@ import requests
 import os
 
 os.environ["IEX_API_VERSION"] = "iexcloud-beta"
-os.environ['IEX_TOKEN'] = 'sk_2c5c50e49ad74709a781b79770c1c9bc'
-tele_TOKEN = "980569069:AAFeXOyqAT8p2L-YQAu-NlNgpEjxBmQjgTU"
+os.environ['IEX_TOKEN'] = 'IEX_TOKEN'
+tele_TOKEN = "Telegram_TOKEN"
 updater = Updater(token=tele_TOKEN, use_context=True)
 dispatcher = updater.dispatcher
 

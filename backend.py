@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 os.environ["IEX_API_VERSION"] = "iexcloud-beta"
-os.environ['IEX_TOKEN'] = 'sk_2c5c50e49ad74709a781b79770c1c9bc'
+os.environ['IEX_TOKEN'] = 'IEX_TOKEN'
 
 
 def get_all_symbols():
@@ -53,7 +53,7 @@ def description(companies):
 
 
 def get_news(companies):
-    newsapi_key = 'e72948f7878d471c991aad0a437d4f32'
+    newsapi_key = 'news_api_TOKEN'
     news_source = ['Bloomberg', 'Reuters']
     output = []
     for i in companies:
