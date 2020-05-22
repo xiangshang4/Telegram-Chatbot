@@ -1,6 +1,7 @@
 # Chatbot build on Telegram
 
-A video Demo for this Chatbot: [Link](https://www.youtube.com/watch?v=pP5i7Lb2bkA&t=8s)
+A video Demo for this Chatbot on youutube: [Link](https://www.youtube.com/watch?v=pP5i7Lb2bkA&t=8s)
+
 ## API
 
 ### IEX Finance
@@ -8,5 +9,4 @@ A video Demo for this Chatbot: [Link](https://www.youtube.com/watch?v=pP5i7Lb2bk
 ### NewsAPI
 ### Swissquote
 
-## Remarks
-You need to acquire necessary tokens to use this project
+
