@@ -6,4 +6,7 @@ A video Demo for this Chatbot: [Link](https://www.youtube.com/watch?v=pP5i7Lb2bk
 ### IEX Finance
 ### Spacy
 ### NewsAPI
-###
+### Swissquote
+
+## Remarks
+You need to acquire necessary tokens to use this project
